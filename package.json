@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/chaires10/express-proyecto#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "request": "^2.88.2"
   }
 }
